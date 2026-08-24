@@ -1,0 +1,15 @@
+// 02_If_22  02_if_★★_DayOfYear
+#include <bits/stdc++.h>
+using namespace std;
+
+#define all(x) begin(x), end(x)
+#define rall(x) rbegin(x), rend(x)
+#define sz(x) (int)(x).size()
+#define endl '\n'
+using ll = long long;
+using ld = long double;
+
+int main() {
+  ios_base::sync_with_stdio(false), cin.tie(nullptr);
+
+}
